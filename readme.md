@@ -186,13 +186,6 @@ This project helped me gain practical experience in:
 * Deploy the model online
 * Support multiple tumor classes
 
----
-
-## 🙏 Acknowledgement
-
-I would like to sincerely thank **Ma'am Gulshan Melvi** for her guidance and support throughout the **Sherozgar AI & Machine Learning Training Program**. The knowledge and practical experience gained during this training made it possible to successfully complete this project.
-
----
 
 ## 📄 License
 
