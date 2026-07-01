@@ -99,7 +99,7 @@ Brain-Tumor-Detection-CNN/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/Brain-Tumor-Detection-CNN.git
+git clone https://github.com/Riffat-Hussain/Brain-Tumor-Detection-CNN.git
 ```
 
 Move into the project folder:
